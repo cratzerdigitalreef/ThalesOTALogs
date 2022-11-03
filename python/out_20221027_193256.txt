@@ -1,0 +1,149 @@
+PROCESS: ClaroArgentina
+Path and pattern for CSV files: D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\*.lst
+Separator CSV: ;
+Out File: out
+Miles Separator: .
+Directory Path: D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\..\libs
+Processing CSV file started at: 2022-10-27 19:32:56.637762
+
+Processing files from D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\*.lst. 
+Total Files: 4
+List of Files to process: 
+ 'D:\\Carlos\\DigitalReef\\Projects\\COTA\\Python\\CSVProcessPython_ThalesOTALogs_v2\\Resultado_campana_http_AR_THALES_10.lst'
+ 'D:\\Carlos\\DigitalReef\\Projects\\COTA\\Python\\CSVProcessPython_ThalesOTALogs_v2\\Resultado_campana_http_AR_VALID_05.lst'
+ 'D:\\Carlos\\DigitalReef\\Projects\\COTA\\Python\\CSVProcessPython_ThalesOTALogs_v2\\Resultado_lineas_fallidas_AR_THALES_01.lst'
+ 'D:\\Carlos\\DigitalReef\\Projects\\COTA\\Python\\CSVProcessPython_ThalesOTALogs_v2\\Resultado_lineas_fallidas_AR_THALES_02.lst'
+
+----------------------------------------------------------------------------------------------------
+
+Processing CSV file 1 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_THALES_10.lst' started at: 2022-10-27 19:32:56.650370
+
+Result for file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_THALES_10.lst': 
+12.510 lines processed.
+
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_THALES_10.lst' - TOTAL SUCCEEDDED: 12.507
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_THALES_10.lst' - TOTAL FAILED: 2
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_THALES_10.lst' - TOTAL IN-PROCESS: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_THALES_10.lst' - TOTAL CANCELED: 2
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_THALES_10.lst' - TOTAL ICCIDs: 12.511
+
+Processed file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_THALES_10.lst' to 'out_20221027_193256.txt', finished: 2022-10-27 19:32:58.419231
+Elapsed: 0 days, 0 hours, 0 minutes, 1 seconds.
+
+--------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+Processing CSV file 2 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_VALID_05.lst' started at: 2022-10-27 19:32:58.419231
+
+Result for file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_VALID_05.lst': 
+45.679 lines processed.
+
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_VALID_05.lst' - TOTAL SUCCEEDDED: 45.272
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_VALID_05.lst' - TOTAL FAILED: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_VALID_05.lst' - TOTAL IN-PROCESS: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_VALID_05.lst' - TOTAL CANCELED: 408
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_VALID_05.lst' - TOTAL ICCIDs: 45.680
+
+Processed file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_campana_http_AR_VALID_05.lst' to 'out_20221027_193256.txt', finished: 2022-10-27 19:33:04.638336
+Elapsed: 0 days, 0 hours, 0 minutes, 6 seconds.
+
+--------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+Processing CSV file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst' started at: 2022-10-27 19:33:04.638336
+
++++ ICCID: 8954310196084261677 - RAPDU: -6985. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 2... at 2022-10-27 19:33:04.638336
++++ ICCID: 8954310211058619782 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 4... at 2022-10-27 19:33:04.638336
++++ ICCID: 8954310211056840174 - RAPDU: -6F00. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 8... at 2022-10-27 19:33:04.638336
++++ ICCID: 8954310211075424026 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 10... at 2022-10-27 19:33:04.653701
++++ ICCID: 8954310202039378176 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 11... at 2022-10-27 19:33:04.653701
++++ ICCID: 8954310211071167470 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 12... at 2022-10-27 19:33:04.657147
++++ ICCID: 8954310211077953097 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 13... at 2022-10-27 19:33:04.658180
++++ ICCID: 8954310202040189091 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 14... at 2022-10-27 19:33:04.658690
++++ ICCID: 8954310211068895109 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 15... at 2022-10-27 19:33:04.659170
++++ ICCID: 8954310196094317287 - RAPDU: -6985. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 21... at 2022-10-27 19:33:04.660181
++++ ICCID: 8954310216022923533 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 24... at 2022-10-27 19:33:04.660181
++++ ICCID: 8954310193025359074 - RAPDU: -6985. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 26... at 2022-10-27 19:33:04.660181
++++ ICCID: 8954310216018347572 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 27... at 2022-10-27 19:33:04.661171
++++ ICCID: 8954310213005746791 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 29... at 2022-10-27 19:33:04.661171
++++ ICCID: 8954310211085566683 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 128... at 2022-10-27 19:33:04.676184
++++ ICCID: 8954310204071094331 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 147... at 2022-10-27 19:33:04.679186
++++ ICCID: 8954310196072291918 - RAPDU: -6985. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 178... at 2022-10-27 19:33:04.687190
++++ ICCID: 8954310211064761941 - RAPDU: -6A80. Processing file 3 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst', line 274... at 2022-10-27 19:33:04.704176
+Result for file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst': 
+383 lines processed.
+
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst' - TOTAL SUCCEEDDED: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst' - TOTAL FAILED: 29
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst' - TOTAL IN-PROCESS: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst' - TOTAL CANCELED: 355
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst' - TOTAL ICCIDs: 384
+
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst' - FAILED - TOTAL RAPDU -6985 : 4
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst' - FAILED - TOTAL RAPDU -6A80 : 13
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst' - FAILED - TOTAL RAPDU -6F00 : 1
+
+Processed file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_01.lst' to 'out_20221027_193256.txt', finished: 2022-10-27 19:33:04.707394
+Elapsed: 0 days, 0 hours, 0 minutes, 0 seconds.
+
+--------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+Processing CSV file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst' started at: 2022-10-27 19:33:04.707394
+
++++ ICCID: 8954310211058209683 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 6... at 2022-10-27 19:33:04.707394
++++ ICCID: 8954310204070656502 - RAPDU: -6985. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 9... at 2022-10-27 19:33:04.707394
++++ ICCID: 8954310211052563481 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 10... at 2022-10-27 19:33:04.707394
++++ ICCID: 8954310211077711693 - RAPDU: -6A84. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 12... at 2022-10-27 19:33:04.707394
++++ ICCID: 8954310211064854399 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 13... at 2022-10-27 19:33:04.707394
++++ ICCID: 8954310211074745553 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 14... at 2022-10-27 19:33:04.707394
++++ ICCID: 8954310194059689626 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 15... at 2022-10-27 19:33:04.707394
++++ ICCID: 8954310202027462578 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 20... at 2022-10-27 19:33:04.707394
++++ ICCID: 8954310202026960788 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 22... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310196094110138 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 23... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310196093530229 - RAPDU: -6985. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 26... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310196096339891 - RAPDU: -6985. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 28... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310216023416123 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 29... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310192017022328 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 30... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310216023322321 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 31... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310216020527419 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 32... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310213003442708 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 36... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310216017782381 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 40... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310216015397109 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 45... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310192011118932 - RAPDU: -6985. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 46... at 2022-10-27 19:33:04.723020
++++ ICCID: 8954310211058807213 - RAPDU: -6A80. Processing file 4 of 4 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst', line 95... at 2022-10-27 19:33:04.723020
+Result for file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst': 
+418 lines processed.
+
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst' - TOTAL SUCCEEDDED: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst' - TOTAL FAILED: 31
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst' - TOTAL IN-PROCESS: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst' - TOTAL CANCELED: 388
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst' - TOTAL ICCIDs: 419
+
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst' - FAILED - TOTAL RAPDU -6A80 : 16
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst' - FAILED - TOTAL RAPDU -6985 : 4
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst' - FAILED - TOTAL RAPDU -6A84 : 1
+
+Processed file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\Resultado_lineas_fallidas_AR_THALES_02.lst' to 'out_20221027_193256.txt', finished: 2022-10-27 19:33:04.774740
+Elapsed: 0 days, 0 hours, 0 minutes, 0 seconds.
+
+--------------------------------------------------
+
+****************************************************************************************************
+
+Result for all Files: 
+58.990 lines processed.
+
+TOTAL FILES: 4
+TOTAL ALL FILES - SUCCEEDDED: 57.779
+TOTAL ALL FILES - FAILED: 62
+TOTAL ALL FILES - IN-PROCESS: 0
+TOTAL ALL FILES - CANCELED: 1.153
+TOTAL ALL FILES - ICCIDs: 58.994
+
+Processed files to 'out_20221027_193256.txt', finished: 2022-10-27 19:33:04.774740
+Elapsed: 0 days, 0 hours, 0 minutes, 8 seconds.
+
+****************************************************************************************************
+

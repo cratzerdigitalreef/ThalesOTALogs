@@ -1,0 +1,84 @@
+PROCESS: ClaroArgentina
+Path and pattern for CSV files: D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\*.csv
+Separator CSV: ,
+Out File: out
+Miles Separator: .
+Directory Path: D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs_v2\..\libs
+Processing CSV file started at: 2022-10-27 19:32:54.834221
+
+Processing files from D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\*.csv. 
+Total Files: 3
+List of Files to process: 
+ 'D:\\Carlos\\DigitalReef\\Projects\\COTA\\Python\\CSVProcessPython_ThalesOTALogs\\userReport_AR_IDEMIA_04_221003_151237158.csv'
+ 'D:\\Carlos\\DigitalReef\\Projects\\COTA\\Python\\CSVProcessPython_ThalesOTALogs\\userReport_AR_THALES_04_221003_151859204.csv'
+ 'D:\\Carlos\\DigitalReef\\Projects\\COTA\\Python\\CSVProcessPython_ThalesOTALogs\\userReport_AR_VALID_00_221003_151907661.csv'
+
+----------------------------------------------------------------------------------------------------
+
+Processing CSV file 1 of 3 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_IDEMIA_04_221003_151237158.csv' started at: 2022-10-27 19:32:54.834221
+
+Result for file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_IDEMIA_04_221003_151237158.csv': 
+594 lines processed.
+
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_IDEMIA_04_221003_151237158.csv' - TOTAL SUCCEEDDED: 312
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_IDEMIA_04_221003_151237158.csv' - TOTAL FAILED: 11
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_IDEMIA_04_221003_151237158.csv' - TOTAL IN-PROCESS: 222
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_IDEMIA_04_221003_151237158.csv' - TOTAL CANCELED: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_IDEMIA_04_221003_151237158.csv' - TOTAL ICCIDs: 545
+
+Processed file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_IDEMIA_04_221003_151237158.csv' to 'out_20221027_193254.txt', finished: 2022-10-27 19:32:55.165939
+Elapsed: 0 days, 0 hours, 0 minutes, 0 seconds.
+
+--------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+Processing CSV file 2 of 3 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_THALES_04_221003_151859204.csv' started at: 2022-10-27 19:32:55.165939
+
+Result for file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_THALES_04_221003_151859204.csv': 
+918 lines processed.
+
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_THALES_04_221003_151859204.csv' - TOTAL SUCCEEDDED: 856
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_THALES_04_221003_151859204.csv' - TOTAL FAILED: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_THALES_04_221003_151859204.csv' - TOTAL IN-PROCESS: 15
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_THALES_04_221003_151859204.csv' - TOTAL CANCELED: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_THALES_04_221003_151859204.csv' - TOTAL ICCIDs: 871
+
+Processed file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_THALES_04_221003_151859204.csv' to 'out_20221027_193254.txt', finished: 2022-10-27 19:32:55.586884
+Elapsed: 0 days, 0 hours, 0 minutes, 0 seconds.
+
+--------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+Processing CSV file 3 of 3 - 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_VALID_00_221003_151907661.csv' started at: 2022-10-27 19:32:55.586884
+
+Result for file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_VALID_00_221003_151907661.csv': 
+3.038 lines processed.
+
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_VALID_00_221003_151907661.csv' - TOTAL SUCCEEDDED: 2.937
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_VALID_00_221003_151907661.csv' - TOTAL FAILED: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_VALID_00_221003_151907661.csv' - TOTAL IN-PROCESS: 54
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_VALID_00_221003_151907661.csv' - TOTAL CANCELED: 0
+File 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_VALID_00_221003_151907661.csv' - TOTAL ICCIDs: 2.991
+
+Processed file 'D:\Carlos\DigitalReef\Projects\COTA\Python\CSVProcessPython_ThalesOTALogs\userReport_AR_VALID_00_221003_151907661.csv' to 'out_20221027_193254.txt', finished: 2022-10-27 19:32:56.568917
+Elapsed: 0 days, 0 hours, 0 minutes, 0 seconds.
+
+--------------------------------------------------
+
+****************************************************************************************************
+
+Result for all Files: 
+4.550 lines processed.
+
+TOTAL FILES: 3
+TOTAL ALL FILES - SUCCEEDDED: 4.105
+TOTAL ALL FILES - FAILED: 11
+TOTAL ALL FILES - IN-PROCESS: 291
+TOTAL ALL FILES - CANCELED: 0
+TOTAL ALL FILES - ICCIDs: 4.407
+
+Processed files to 'out_20221027_193254.txt', finished: 2022-10-27 19:32:56.568917
+Elapsed: 0 days, 0 hours, 0 minutes, 1 seconds.
+
+****************************************************************************************************
+
